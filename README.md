@@ -1,11 +1,10 @@
 # 👋 Hey, I'm Yusuf
 
-### 💻 Developer • Server Developer • Tech Enthusiast
+### 💻 Full-Stack Developer • Game Server Developer • Tech Enthusiast
 
 🇹🇷 Türkiye
 
-I'm a developer focused on **web development, backend systems, game-server development and infrastructure**.
-I enjoy building projects from scratch, experimenting with new technologies and turning ideas into production-ready systems.
+I'm a **Full-Stack Developer** focused on web applications, backend systems, game servers and infrastructure. I enjoy building projects from scratch and working across the entire development stack.
 
 ---
 
@@ -13,11 +12,9 @@ I enjoy building projects from scratch, experimenting with new technologies and 
 
 ```yaml
 name: Yusuf
+username: hesthreal
 location: Türkiye
-role:
-  - Software Developer
-  - Game Server Developer
-  - Backend Developer
+role: Full-Stack Developer
 
 interests:
   - Web Development
@@ -25,175 +22,57 @@ interests:
   - Minecraft Development
   - FiveM Development
   - Server Infrastructure
-  - Automation
-  - AI Projects
-
-currently_learning:
-  - Advanced Backend Development
-  - System Architecture
-  - DevOps
-  - Cloud & Server Infrastructure
+  - Automation & AI
+  - Databases
 ```
 
 ---
 
-## 🧩 What I Do
+## 🛠️ Tech Stack
 
-### 🌐 Web Development
+### 💻 Languages
 
-I build modern websites, dashboards, APIs and custom web-based systems.
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python,lua,php,cpp,cs,c,rust,go,kotlin,swift,dart,bash,powershell" />
+</p>
 
-* Responsive websites
-* REST APIs
-* Authentication systems
-* Admin dashboards
-* Database integrations
-* Payment integrations
-* Custom business platforms
+### ⚡ Frameworks & Runtime
 
-### 🎮 Game Server Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vue,express,nestjs,vite,tailwind" />
+</p>
 
-I develop and manage custom **Minecraft** and **FiveM** server environments.
+### 🗄️ Databases & Infrastructure
 
-**Minecraft**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,nginx,git,github" />
+</p>
 
-* Paper / Purpur
-* Velocity
-* Custom plugins
-* Server systems
-* GUI systems
-* PlaceholderAPI integrations
-* Database systems
-* Performance optimization
+### 🎮 Game Development
 
-**FiveM**
-
-* Lua scripting
-* ESX / QBCore
-* Custom resources
-* HUD systems
-* Job systems
-* Database integrations
-* Server infrastructure
+`Minecraft` `Paper` `Purpur` `Spigot` `Velocity` `FiveM` `Cfx.re` `ESX` `QBCore`
 
 ---
 
-# 🏢 Projects & Brands
+# 🏢 Projects
 
-## 🌙 Night Software
+### 🌙 Night Software
 
-**Night Software** is my personal software and game-server development brand.
+Software & game-server development brand focused on websites, Minecraft, FiveM and custom systems.
 
-> Building software, websites and custom game-server solutions.
+### 🎭 Apex Roleplay
 
-### Services
+FiveM roleplay project focused on custom gameplay systems, infrastructure and server development.
 
-* 🌐 Website Development
-* 🎮 Minecraft Server Development
-* 🚗 FiveM Server Development
-* ⚙️ Custom Systems
-* 🔌 Plugin Development
-* 🗄️ Database Systems
-* 🖥️ Server Setup & Management
+### 🌐 NEXUS MC
 
----
-
-## 🎭 Apex Roleplay
-
-**Apex Roleplay** is a FiveM roleplay project focused on creating a custom multiplayer experience with its own systems and infrastructure.
-
-### Development Areas
-
-* FiveM server infrastructure
-* Custom scripts
-* Player systems
-* HUD/UI systems
-* Jobs & gameplay systems
-* Database integration
-* Server optimization
-* Administration systems
-
----
-
-## 🌐 NEXUS MC
-
-**NEXUS MC** is a Minecraft network project designed around a scalable multi-server architecture.
-
-### Architecture
+Minecraft network project built around scalable proxy and multi-server architecture.
 
 ```text
-                    ┌─────────────┐
-                    │   Players   │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   Velocity  │
-                    │    Proxy    │
-                    └──────┬──────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-         ┌─────────┐  ┌─────────┐  ┌─────────┐
-         │  Lobby  │  │  Towny  │  │   SMP   │
-         └─────────┘  └─────────┘  └─────────┘
-```
-
-Focused on:
-
-* ⚡ High-performance infrastructure
-* 🔀 Proxy networking
-* 🏘️ Towny systems
-* 🎮 Custom gameplay
-* 🧩 Plugin development
-* 📊 Server monitoring
-* 🗄️ Database architecture
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,lua,python,sql" />
-</p>
-
-### Frameworks & Runtime
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,vite" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,nginx,vscode" />
-</p>
-
-### Game Server Technologies
-
-```text
-Minecraft
-├── Paper
-├── Purpur
-├── Velocity
-├── Spigot
-├── Bukkit
-└── PlaceholderAPI
-
-FiveM
-├── Lua
-├── ESX
-├── QBCore
-├── Cfx.re
-└── ox_lib
+Player → Velocity → Lobby → Game Servers
+                    ├── Towny
+                    ├── SMP
+                    └── Future Servers
 ```
 
 ---
@@ -202,9 +81,9 @@ FiveM
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hesthreal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesthreal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
 
 </div>
 
@@ -214,114 +93,56 @@ FiveM
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=hesthreal&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=hesthreal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2" />
 
 </div>
 
----
+# 📈 Contribution Graph
 
-# 📌 Featured Projects
-
-| Project           | Description                   | Technology           |
-| ----------------- | ----------------------------- | -------------------- |
-| 🌙 Night Software | Software & server development | Web / Node.js        |
-| 🎭 Apex Roleplay  | FiveM roleplay infrastructure | Lua / FiveM          |
-| 🌐 NEXUS MC       | Minecraft network             | Java / Velocity      |
-| 🔧 Custom Systems | Various development projects  | JS / TS / Java / Lua |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hesthreal&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 ---
 
-# 💡 Currently Working On
+# 🎯 Currently Working On
 
 ```text
 🌙 Night Software
 🎭 Apex Roleplay
 🌐 NEXUS MC
-⚙️ Custom Minecraft Plugins
+⚙️ Minecraft Plugins & Systems
 🚗 FiveM Resources
-🌐 Web Applications
-🤖 AI & Automation Projects
+🌐 Full-Stack Applications
+🤖 AI & Automation
 🖥️ Server Infrastructure
 ```
 
 ---
 
-# 🎯 Development Goals
-
-* [x] Learn multiple programming languages
-* [x] Build and manage game servers
-* [x] Develop custom server systems
-* [x] Work with databases
-* [x] Build web applications
-* [ ] Build larger scalable platforms
-* [ ] Improve DevOps & cloud knowledge
-* [ ] Create more open-source projects
-* [ ] Build production-grade SaaS projects
-
----
-
-# 🧠 Development Philosophy
-
-> **Don't just use technology. Understand how it works.**
-
-I like understanding systems from the ground up — from the code running behind an application to the infrastructure keeping it online.
-
-My goal isn't simply to make something work.
-
-**It's to make it work well.**
-
----
-
 # 📫 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p>
+<a href="https://github.com/hesthreal">
+<img src="https://img.shields.io/badge/GitHub-hesthreal-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/hesthreal">
+<img src="https://img.shields.io/badge/Discord-hesthreal-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ⚡ Build. Break. Learn. Improve.
+<img src="https://komarev.com/ghpvc/?username=hesthreal&style=for-the-badge&color=blueviolet"/>
 
-**Thanks for visiting my profile!**
+### ⚡ Build. Learn. Improve.
 
 </div>
